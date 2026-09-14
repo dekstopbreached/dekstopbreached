@@ -1,97 +1,245 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Full Stack Developer | Data Science & ML Enthusiast | B.Tech CSE (Data Science)</h3>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+MERN+stack+apps;Exploring+ML+%26+Predictive+Maintenance;Full+Stack+%2B+Data+Science+%7C+Best+of+Both+Worlds" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ayush%20Bhardwaj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning+Explorer;Software+Developer;Full-Stack+%26+Web+Developer;Building+Data-Driven+Solutions"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dekstopbreached">
+    <img src="https://img.shields.io/badge/GitHub-dekstopbreached-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-bhardwaj-355999320/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://ayush-bhardwaj-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="mailto:ayushbhardwaj1600@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👋 About Me
 
-- 🎓 B.Tech Computer Science (Data Science), Chandigarh University — Batch 2024–2028
-- 💻 Working across **Full Stack Development** and **Data Science / ML**
-- 🔭 Currently building **FitMind AI** and a **Predictive Maintenance Dashboard**
-- 📄 Co-authored an IEEE paper on predictive maintenance using NASA C-MAPSS data
-- 🌱 Currently deepening my database and backend skills
-- ⚡ Fun fact: I mix cinematic 3D web design with data pipelines
+I'm **Ayush Bhardwaj**, a Computer Science & Engineering student passionate about building solutions at the intersection of **Data Science, Artificial Intelligence, and Software Development**.
 
----
+I enjoy turning ideas into practical applications — from **data analysis and predictive modeling** to **AI-powered products and modern web applications**.
 
-### 🛠️ Tech Stack
+I'm particularly interested in:
 
-**Languages & Core**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+* 📊 Data Science & Predictive Analytics
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Full-Stack & Web Development
+* 📈 Data Visualization & Business Analytics
+* 🧩 Data Structures & Algorithmic Problem Solving
+* 🎨 UI/UX & modern digital experiences
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Data Science / ML**
-![XGBoost](https://img.shields.io/badge/-XGBoost-EB0028?style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+> **I learn by building — turning concepts into projects and projects into real-world solutions.**
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Technologies & Tools
 
-#### 🧠 [FitMind AI](https://github.com/dekstopbreached/fitmind-ai)
-MERN stack fitness & nutrition app built for the Razorpay Buildathon. Integrates Gemini + OpenAI fallback for AI-driven guidance and Razorpay for premium subscriptions.
-`React` `Node.js` `MongoDB` `Gemini API` `Razorpay`
+### 💻 Programming Languages
 
-#### 📊 Predictive Maintenance Dashboard *(extending IEEE research)*
-Dashboard built on top of published research using the NASA C-MAPSS dataset — k-means cluster-wise z-score normalization with XGBoost + Cox + Exponential Degradation models, cutting RMSE from 35–48% down to under 12%.
-`Python` `XGBoost` `Data Science` `Full Stack`
-
-#### 🎨 [3D Interactive Portfolio](https://github.com/dekstopbreached/portfolio)
-Personal portfolio website evolved through iterative design phases into a Nike-style cinematic experience — geometric shapes, ember particles, and wisteria petal animations.
-`Three.js` `React` `WebGL`
-
-#### ☕ Spring Boot Lab Suite
-A set of Spring Boot experiments covering REST APIs, exception handling, and pagination/sorting — with full lab documentation.
-`Java` `Spring Boot` `REST APIs`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dekstopbreached&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekstopbreached&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dekstopbreached&theme=tokyonight&hide_border=true" />
+### 🌐 Web & Full-Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql" />
+</p>
+
+### 📊 Data Science & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,anaconda" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 FitMind AI
+
+AI-powered fitness platform concept designed around personalized workout planning, nutrition guidance, health tracking, and intelligent recommendations.
+
+**Focus:**
+`AI` `Full-Stack` `Personalization` `Health Analytics`
+
+</td>
+
+<td width="50%">
+
+### 📈 Stock Market Predictive Analysis
+
+Data-driven project exploring historical market trends, visualization, and predictive analytics techniques.
+
+**Focus:**
+`Python` `Data Science` `Analytics` `Visualization`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Student Feedback Portal
+
+Responsive web platform designed to simplify student feedback collection with a clean and user-friendly interface.
+
+**Focus:**
+`HTML` `CSS` `JavaScript` `UI/UX`
+
+</td>
+
+<td width="50%">
+
+### 🚢 Titanic EDA
+
+Exploratory data analysis project studying passenger survival patterns using data cleaning, statistical analysis, and visualization.
+
+**Focus:**
+`Python` `Pandas` `EDA` `Data Visualization`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏙️ Crime Data Visualization
+
+Data visualization project focused on discovering trends and patterns within crime-related datasets.
+
+**Focus:**
+`Data Analytics` `Visualization` `Python`
+
+</td>
+
+<td width="50%">
+
+### 💻 Personal Portfolio
+
+Modern responsive portfolio showcasing my projects, technical skills, and development journey.
+
+**Focus:**
+`Web Development` `UI/UX` `Responsive Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-bhardwaj-355999320/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayushbhardwaj1600@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://ayush-bhardwaj-chi.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Applications-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-475569?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<p align="center"><i>⚽ Football fan • 😄 Always up for a good laugh • Building things across the stack</i></p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dekstopbreached&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekstopbreached&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dekstopbreached&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dekstopbreached/dekstopbreached/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+```text
+▸ Strengthen Data Structures & Algorithms
+▸ Build production-ready AI applications
+▸ Improve Machine Learning fundamentals
+▸ Develop scalable full-stack applications
+▸ Work on real-world data projects
+▸ Contribute to open-source projects
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayush-bhardwaj-355999320/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ayush-bhardwaj-chi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:ayushbhardwaj1600@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dekstopbreached&label=Profile%20Views&style=flat-square"/>
+</p>
+
+<p align="center">
+  <b>Build • Analyze • Innovate • Repeat 🚀</b>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=100&section=footer"/>
+</p>
