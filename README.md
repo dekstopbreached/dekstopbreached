@@ -83,10 +83,15 @@ My approach is simple:
 
 ### 🧠 FitMind AI
 
-An AI-powered fitness platform concept focused on personalized workout planning, nutrition guidance, health tracking, and intelligent recommendations.
+An AI-powered fitness platform focused on personalized workout planning, nutrition guidance, health tracking, and intelligent recommendations.
 
 **Focus:** AI Integration • Full-Stack Development • Personalized Systems
 
+<p>
+  <a href="https://fit-mind-ai-1.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20FitMind%20AI-2563EB?style=for-the-badge&logo=render"/>
+  </a>
+</p>
 ---
 
 ### 📈 Stock Market Predictive Analysis
